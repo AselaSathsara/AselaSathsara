@@ -25,12 +25,6 @@ I am an undergraduate passionate about **Operations Research** and **Artificial 
 
 ---
 
-## 🚀 Featured Projects
-🔹 *(Add your best projects here — this is VERY important)*  
-- 📌 Project Name – Short description  
-- 📌 Project Name – Short description  
-- 📌 Project Name – Short description  
-
 ## 🔥 Streak Stats
 
 <p align="center">
