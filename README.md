@@ -49,7 +49,7 @@ I am an undergraduate passionate about **Operations Research** and **Artificial 
 ## 📫 Connect with Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/asela-sathsara-abeysekara/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sathsara.asela@gmail.com">
